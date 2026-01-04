@@ -5,6 +5,10 @@
 > - Evaluation-driven model and system design  
 > - Real-world perception under unconstrained conditions
 
+**Links**
+- LinkedIn: https://www.linkedin.com/in/themingcha  
+- Email: inthemingcha [at] gmail [dot] com
+
 Applied AI Scientist working on multimodal video understanding, retrieval,
 and evaluation-driven system design.
 
@@ -35,8 +39,4 @@ multimodal video understanding, retrieval, and semantic grounding.
 I am interested in roles where research-level problem definition meets
 product-level constraints, particularly in multimodal video understanding,
 retrieval, and reasoning.
-
-**Links**
-- LinkedIn: https://www.linkedin.com/in/themingcha  
-- Email: inthemingcha [at] gmail [dot] com
 
